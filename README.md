@@ -1,2 +1,2 @@
 # my1stwebsite
-[link](dkl1.netlify.app)
+[link](https://dkl1.netlify.app/)
